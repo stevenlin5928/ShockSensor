@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\steve\\OneDrive\\2022-\u5143\u6CD3\u79D1\u6280\\\u7522\u54C1\\\u9707\u52D5\u50B3\u611F\u5668\\DataCollection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C28AAEC-2350-44BD-92E8-F8F78521EC8B}|DataCollection\\DataCollection.csproj|c:\\users\\steve\\onedrive\\2022-\u5143\u6CD3\u79D1\u6280\\\u7522\u54C1\\\u9707\u52D5\u50B3\u611F\u5668\\datacollection\\datacollection\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C28AAEC-2350-44BD-92E8-F8F78521EC8B}|DataCollection\\DataCollection.csproj|solutionrelative:datacollection\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C28AAEC-2350-44BD-92E8-F8F78521EC8B}|DataCollection\\DataCollection.csproj|c:\\users\\steve\\onedrive\\2022-\u5143\u6CD3\u79D1\u6280\\\u7522\u54C1\\\u9707\u52D5\u50B3\u611F\u5668\\datacollection\\datacollection\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5C28AAEC-2350-44BD-92E8-F8F78521EC8B}|DataCollection\\DataCollection.csproj|solutionrelative:datacollection\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C28AAEC-2350-44BD-92E8-F8F78521EC8B}|DataCollection\\DataCollection.csproj|c:\\users\\steve\\onedrive\\2022-\u5143\u6CD3\u79D1\u6280\\\u7522\u54C1\\\u9707\u52D5\u50B3\u611F\u5668\\datacollection\\datacollection\\serialutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C28AAEC-2350-44BD-92E8-F8F78521EC8B}|DataCollection\\DataCollection.csproj|solutionrelative:datacollection\\serialutility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SerialUtility.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\OneDrive\\2022-\u5143\u6CD3\u79D1\u6280\\\u7522\u54C1\\\u9707\u52D5\u50B3\u611F\u5668\\DataCollection\\DataCollection\\SerialUtility.cs",
+              "RelativeDocumentMoniker": "DataCollection\\SerialUtility.cs",
+              "ToolTip": "C:\\Users\\steve\\OneDrive\\2022-\u5143\u6CD3\u79D1\u6280\\\u7522\u54C1\\\u9707\u52D5\u50B3\u611F\u5668\\DataCollection\\DataCollection\\SerialUtility.cs",
+              "RelativeToolTip": "DataCollection\\SerialUtility.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T09:12:54.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\steve\\OneDrive\\2022-\u5143\u6CD3\u79D1\u6280\\\u7522\u54C1\\\u9707\u52D5\u50B3\u611F\u5668\\DataCollection\\DataCollection\\Form1.cs",
+              "RelativeDocumentMoniker": "DataCollection\\Form1.cs",
+              "ToolTip": "C:\\Users\\steve\\OneDrive\\2022-\u5143\u6CD3\u79D1\u6280\\\u7522\u54C1\\\u9707\u52D5\u50B3\u611F\u5668\\DataCollection\\DataCollection\\Form1.cs",
+              "RelativeToolTip": "DataCollection\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T09:12:48.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\steve\\OneDrive\\2022-\u5143\u6CD3\u79D1\u6280\\\u7522\u54C1\\\u9707\u52D5\u50B3\u611F\u5668\\DataCollection\\DataCollection\\Form1.cs",
+              "RelativeDocumentMoniker": "DataCollection\\Form1.cs",
+              "ToolTip": "C:\\Users\\steve\\OneDrive\\2022-\u5143\u6CD3\u79D1\u6280\\\u7522\u54C1\\\u9707\u52D5\u50B3\u611F\u5668\\DataCollection\\DataCollection\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "DataCollection\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T09:11:51.595Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

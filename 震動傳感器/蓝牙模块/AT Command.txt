@@ -1,0 +1,10 @@
+
+
+AT+OK
+AT+SACN？ 找寻蓝牙设备
+AT+CONN0  连线找到编号0的设备
+###AT+CONNX 连线找到编号X的设备
+AT+CHRXFFE1  收发都是FFE1是吧
+AT+AUCO? 查询自动连接参数
+AT+AUCO1   设置自动连接
+AT+AUCO0 取消自动连接
