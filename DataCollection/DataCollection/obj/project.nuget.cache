@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QSit9XMLZYY=",
+  "dgSpecHash": "U2ntY6tAgzU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\steve\\OneDrive\\2022-元泓科技\\產品\\震動傳感器\\DataCollection\\DataCollection\\DataCollection.csproj",
+  "projectFilePath": "D:\\GirHub\\ShockSensor\\DataCollection\\DataCollection\\DataCollection.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\steve\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\8.0.0\\runtime.linux-arm.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
     "C:\\Users\\steve\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\8.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",

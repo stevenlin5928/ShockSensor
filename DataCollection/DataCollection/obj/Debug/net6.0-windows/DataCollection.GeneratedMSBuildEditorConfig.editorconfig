@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DataCollection
-build_property.ProjectDir = C:\Users\steve\OneDrive\2022-元泓科技\產品\震動傳感器\DataCollection\DataCollection\
+build_property.ProjectDir = D:\GirHub\ShockSensor\DataCollection\DataCollection\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

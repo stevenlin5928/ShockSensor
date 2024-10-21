@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\steve\\OneDrive\\2022-元泓科技\\產品\\震動傳感器\\DataCollection\\DataCollection\\DataCollection.csproj": {}
+    "D:\\GirHub\\ShockSensor\\DataCollection\\DataCollection\\DataCollection.csproj": {}
   },
   "projects": {
-    "C:\\Users\\steve\\OneDrive\\2022-元泓科技\\產品\\震動傳感器\\DataCollection\\DataCollection\\DataCollection.csproj": {
+    "D:\\GirHub\\ShockSensor\\DataCollection\\DataCollection\\DataCollection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\steve\\OneDrive\\2022-元泓科技\\產品\\震動傳感器\\DataCollection\\DataCollection\\DataCollection.csproj",
+        "projectUniqueName": "D:\\GirHub\\ShockSensor\\DataCollection\\DataCollection\\DataCollection.csproj",
         "projectName": "DataCollection",
-        "projectPath": "C:\\Users\\steve\\OneDrive\\2022-元泓科技\\產品\\震動傳感器\\DataCollection\\DataCollection\\DataCollection.csproj",
+        "projectPath": "D:\\GirHub\\ShockSensor\\DataCollection\\DataCollection\\DataCollection.csproj",
         "packagesPath": "C:\\Users\\steve\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\steve\\OneDrive\\2022-元泓科技\\產品\\震動傳感器\\DataCollection\\DataCollection\\obj\\",
+        "outputPath": "D:\\GirHub\\ShockSensor\\DataCollection\\DataCollection\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
